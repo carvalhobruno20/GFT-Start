@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GFT-Start.iml" filepath="$PROJECT_DIR$/.idea/GFT-Start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beer_api/beerstock.iml" filepath="$PROJECT_DIR$/beer_api/beerstock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/peopleapi/personapi.iml" filepath="$PROJECT_DIR$/peopleapi/personapi.iml" />
+    </modules>
+  </component>
+</project>
