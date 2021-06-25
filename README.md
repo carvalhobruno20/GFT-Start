@@ -9,6 +9,7 @@ Esse Bootcamp foi desenvolvido com as seguintes tecnologias:
 - Java
 - IDEA Intellij
 - API RESTul
+- JUnit
 - Mockito
 - Hamcrest
 - Spring Boot
